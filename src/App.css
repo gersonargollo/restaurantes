@@ -2,37 +2,106 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  background-image: url('https://image.shutterstock.com/image-vector/light-red-yellow-vector-blurred-260nw-1728470728.jpg');
+  background-size: cover;
+  background-position: center;
+ }
+ h1,h2,h3,h4,h5{
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  font-family:cursive;
+}
+#ti1{
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-left: 120px;
 }
 
-.App-link {
-  color: #61dafb;
+h5{
+color: black;
+font-size:smaller;
 }
+p{
+  color: rgb(34, 1, 55);
+  font-family:cursive;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+#algunas{
+  text-align: center;
+  text-decoration: underline;
+  font: oblique bold 120% cursive;
+color: black;
+}
+#redes{
+  background-color:white;
+ place-items: center;
+ margin: 0%;
+ margin-top: 20px;
+ margin-left: 40%;
+ margin-right: 35%;
+ color:white ;
+}
+#bienvenida{
+  color: black;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font: oblique bold 100% cursive;
+}
+#catimagen{
+  background-color: white;
+}
+#botinf{
+  background-color: white;
+  margin-top: 30px;
+  margin-left: 70px;
+  margin-bottom: 50px;
+}
+.mb-3{
+ color: black;
+ margin-top: 30px;
+ margin-left: 30px;
+}
+#gracias{
+  margin-top: 80px;
+}
+.img{
+  filter: drop-shadow(20px 7px 5px blue);
+}
+#credits {
+  position:relative;
+  bottom: 0;
+  width: 100%;
+  background-color: #333333ad;
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+}
+#span1{
+  color: black;
+  display: block;
+  font-family: monospace;
+  white-space: nowrap;
+  border-right: 4px solid;
+  width: 30ch;
+text-align: center;
+  animation: typing 4s steps(30),blink .5s infinite step-end alternate;
+  overflow: hidden;
+}
+@keyframes typing{
+  from{width: 0;}
+}
+@keyframes blink {
+ 50% {border-color: transparent;}
+}
+#maq{
+  margin-top: 20px;
+  margin-left: 35%;
+  margin-bottom: 60px;
+}
+#vid{
+  text-align: center;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/gersonargollo/restaurantes/static/css/main.80c8424b.css",
+    "main.js": "/gersonargollo/restaurantes/static/js/main.4fdf1fff.js",
+    "static/js/787.0fbb6f55.chunk.js": "/gersonargollo/restaurantes/static/js/787.0fbb6f55.chunk.js",
+    "static/media/promo4.png": "/gersonargollo/restaurantes/static/media/promo4.c9e603e5bfb78fb2d448.png",
+    "static/media/promo2.png": "/gersonargollo/restaurantes/static/media/promo2.e4e138d164875de9fc5d.png",
+    "static/media/promo3.png": "/gersonargollo/restaurantes/static/media/promo3.47f4b10673cc99cd9941.png",
+    "static/media/promo1.png": "/gersonargollo/restaurantes/static/media/promo1.6749bcc4716f63bcc3bd.png",
+    "static/media/xc.png": "/gersonargollo/restaurantes/static/media/xc.2fef38028f9bd401af6f.png",
+    "static/media/vb.png": "/gersonargollo/restaurantes/static/media/vb.4cc10e28017af430ac98.png",
+    "static/media/zx.png": "/gersonargollo/restaurantes/static/media/zx.bca4b1a03fa377d43644.png",
+    "static/media/pro2.jpg": "/gersonargollo/restaurantes/static/media/pro2.5d5e8b8d6b2d7a6760b1.jpg",
+    "static/media/jk.png": "/gersonargollo/restaurantes/static/media/jk.b62e46a772eeb00e6460.png",
+    "static/media/kl.png": "/gersonargollo/restaurantes/static/media/kl.8196089f6e8b4b2b2ee9.png",
+    "static/media/pro1.jpg": "/gersonargollo/restaurantes/static/media/pro1.ad4867bf006ecf53994c.jpg",
+    "static/media/gh.png": "/gersonargollo/restaurantes/static/media/gh.1b6d6cf4ef0f502231b2.png",
+    "static/media/sd.png": "/gersonargollo/restaurantes/static/media/sd.a6df85e39bc1709e4d97.png",
+    "static/media/pro0.jpg": "/gersonargollo/restaurantes/static/media/pro0.dd458a0fd8848b37a6d1.jpg",
+    "static/media/pedido3.png": "/gersonargollo/restaurantes/static/media/pedido3.b5bb905ee441cb8a6041.png",
+    "static/media/pedido1.png": "/gersonargollo/restaurantes/static/media/pedido1.d0b5b4b85a98a62675b9.png",
+    "static/media/pedido2.png": "/gersonargollo/restaurantes/static/media/pedido2.ec1bb602c36e46418bb2.png",
+    "static/media/pedido4.png": "/gersonargollo/restaurantes/static/media/pedido4.d54be79d7bbacc56f815.png",
+    "static/media/nm.png": "/gersonargollo/restaurantes/static/media/nm.6741cd4e7055e813a888.png",
+    "static/media/pedido7.png": "/gersonargollo/restaurantes/static/media/pedido7.ca9775c19a9458e383f8.png",
+    "static/media/pedido6.png": "/gersonargollo/restaurantes/static/media/pedido6.9fd9c7d3744276c37ea8.png",
+    "static/media/pedido5.png": "/gersonargollo/restaurantes/static/media/pedido5.79ac487445d8b436ea4a.png",
+    "static/media/mm.png": "/gersonargollo/restaurantes/static/media/mm.05849cc466ec1f92bf7e.png",
+    "static/media/bn.png": "/gersonargollo/restaurantes/static/media/bn.ab493b3d13627e5ed91a.png",
+    "index.html": "/gersonargollo/restaurantes/index.html",
+    "main.80c8424b.css.map": "/gersonargollo/restaurantes/static/css/main.80c8424b.css.map",
+    "main.4fdf1fff.js.map": "/gersonargollo/restaurantes/static/js/main.4fdf1fff.js.map",
+    "787.0fbb6f55.chunk.js.map": "/gersonargollo/restaurantes/static/js/787.0fbb6f55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c8424b.css",
+    "static/js/main.4fdf1fff.js"
+  ]
+}
